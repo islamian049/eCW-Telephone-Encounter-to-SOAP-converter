@@ -1,0 +1,13 @@
+TELEPHONE ENCOUNTER - RAW (eCW):
+Caller: Mother of 12-year-old female
+Reason: Fever 2 days, cough
+Notes: Mom says fever 101, gave Tylenol, cough dry, school exposure
+
+CONVERTED TO SOAP (eCW Ready):
+
+S: 12F with mother, c/o fever x2 days, cough, rhinorrhea. No SOB, chest pain. Tylenol helps. Exposure at school. PMH: asthma.
+O: Telephone encounter - vitals not taken
+A: 1. Acute viral URI - J06.9 - MEAT: Monitored symptoms, Evaluated exposure, Assessed vitals by history, Treated with Tylenol
+P: Continue fluids, Tylenol q6h, return if fever >3 days, f/u in clinic tomorrow
+
+MDM: Low | Billable: Yes after conversion
